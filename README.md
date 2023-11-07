@@ -15,5 +15,6 @@
 > 因为ubuntu18.04已经不支持，换到20.04
 
 部分插件的源失效，自己找新源替换一下  
-
-初始项目 https://github.com/chongshengB/Padavan-build
+## 参考
+https://github.com/chongshengB/Padavan-build
+https://github.com/xiaiohuan/Padavan-build-4.4
