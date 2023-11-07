@@ -19,6 +19,9 @@ k2p 性能有限，科学类软件k2p是无法跑满的，自己权衡。
 我这里主要是为了做ap用，3.4.x版本在长时间运行后会我这里出现频繁死机以及wifi偶尔掉线的情况（重置NVRAM和/etc/storage可以坚持一段时间但是不稳定），所以自己编译到4.4,并删掉所有非必要插件。
 
 ## 参考以及上游
-https://github.com/chongshengB/Padavan-build  
+https://github.com/hanwckf/padavan-4.4   
+https://github.com/MeIsReallyBa/padavan-4.4  
+https://github.com/xiaiohuan/padavan-4  
+
+https://github.com/chongshengB/Padavan-build   
 https://github.com/xiaiohuan/Padavan-build-4.4  
-https://github.com/hanwckf/padavan-4.4
