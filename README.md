@@ -18,6 +18,7 @@
 k2p 性能有限，科学类软件k2p是无法跑满的，自己权衡。   
 我这里主要是为了做ap用，3.4.x版本在长时间运行后会出现频繁死机的情况，所以自己编译到4.4,并删掉所有非必要插件。
 
-## 参考
+## 参考以及上游
 https://github.com/chongshengB/Padavan-build  
 https://github.com/xiaiohuan/Padavan-build-4.4  
+https://github.com/hanwckf/padavan-4.4
