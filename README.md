@@ -4,7 +4,7 @@
 
 0.点击右上角的Fork按钮，进入自己fork后的仓库。
 
-1.修改/workflows/build-padavan.yml里的插件与机型。修改TNAME: K2P 中的K2P为需要编译的型号， 可以自定义几个模块
+1.修改/workflows/build-padavan.yml里的插件与机型。修改TNAME: K2P 中的K2P为需要编译的型号， 可以自定义几个插件模块
 
 2.点击页面上部的Actions按钮，点击I understand my workflows，go ahead and enable them绿色按钮启用action。
 
